@@ -1,0 +1,17 @@
+{
+    "development": {
+      "username": "Dabber",
+      "password": "your_db_password",
+      "database": "Healthy-you",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "Dabber",
+      "password": "your_db_password",
+      "database": "Healthy-you",
+      "host": "your_production_db_host",
+      "dialect": "postgres"
+    }
+  }
+  
